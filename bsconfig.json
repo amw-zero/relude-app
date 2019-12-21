@@ -15,7 +15,10 @@
   "suffix": ".bs.js",
   "namespace": true,
   "bs-dependencies": [
-    "reason-react"
+    "reason-react",
+    "relude",
+    "relude-reason-react",
+    "bs-axios"
   ],
   "refmt": 3
 }
